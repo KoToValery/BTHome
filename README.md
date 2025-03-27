@@ -64,3 +64,4 @@ framework = arduino
 - **Calibration:**  
   For enhanced accuracy, you may add calibration parameters (scaling factors and offsets) in the `readVoltage()` function.
 
+![BTHome Sensors](esp32_BThome.jpg)
